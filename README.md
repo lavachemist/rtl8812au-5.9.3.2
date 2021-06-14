@@ -42,3 +42,4 @@ As others have noted, people using NetworkManager need to add this stanza to /et
   [device]
   wifi.scan-rand-mac-address=no
 ```
+.
